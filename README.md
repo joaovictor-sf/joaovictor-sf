@@ -2,7 +2,7 @@
 
 - 🧑 I'm João Victor.
 - 🇧🇷 Live in Vilas do Atlântico, Bahia, Brazil.
-- 💕 I like to study about programming and I love to program.
+- 💕 I love to code.
 - 🌱 Learning about java and web development.
 
 <hr>
